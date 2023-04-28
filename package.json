@@ -1,0 +1,21 @@
+{
+  "name": "json-server-vercel",
+  "version": "1.0.0",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "json-server-uploader": "^1.0.3",
+    "json-web": "^1.0.1",
+    "token": "^0.1.0",
+    "uploader": "^3.13.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.21",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}

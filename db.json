@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "title": "Self-Care ❤️",
+      "content": "Self-care is anything you do to take care of yourself so you can stay physically, mentally, and emotionally well. Its benefits are better physical, mental, and emotional health and well-being. Research suggests self-care promotes positive health outcomes, such as fostering resilience, living longer, and becoming better equipped to manage stress.",
+      "image": "uploads/6tse8wl4.jpg",
+      "userName": "Rewan Hamed",
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "EQ",
+      "content": "Emotional intelligence is defined as the ability to understand and manage your own emotions, as well as recognize and influence the emotions of those around you. The term was first coined in 1990 by researchers John Mayer and Peter Salovey, but was later popularized by psychologist Daniel Goleman.",
+      "image": "uploads/dufzfnwl.jpg",
+      "userName": "Rewan Hamed",
+      "userId": "2",
+      "id": 3
+    },
+    {
+      "title": "Mindfullness",
+      "content": "Mindfulness is a type of meditation in which you focus on being intensely aware of what you're sensing and feeling in the moment, without interpretation or judgment. Practicing mindfulness involves breathing methods, guided imagery, and other practices to relax the body and mind and help reduce stress.",
+      "image": "uploads/altf5efw.jpg",
+      "userName": "Ahmed Amin",
+      "userId": "8",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "rewanhamed3@gmail.com",
+      "password": "$2a$10$tusKKXYB8j3xuobU1nsefO9vb0CYLBOxL/OYogyDhagGi3nRkUgiu",
+      "FirstName": "Rewan",
+      "LastName": "Hamed",
+      "confirmPassword": "rew@N223",
+      "id": 1
+    },
+    {
+      "email": "Reeeewan@gmail.com",
+      "password": "$2a$10$VVSOikknEh8OWAc46qy6Pum0LEpk1/aqi0nL8WH4pou5CLwPllXH2",
+      "FirstName": "Rewan",
+      "LastName": "Hamed",
+      "confirmPassword": "RR@123rr",
+      "id": 2
+    },
+    {
+      "email": "Reewan@gmail.com",
+      "password": "$2a$10$fVZ0KvOVP9vn9Z6xL8gcGe/4lZfIwUmAA1ORBjbLTV3dHEMi3b8Ge",
+      "FirstName": "Rewan",
+      "LastName": "Hamed",
+      "confirmPassword": "RR@123rr",
+      "id": 3
+    },
+    {
+      "email": "ranahamed@gmail.com",
+      "password": "$2a$10$iDjj4y9k0UwlXUqQ2W8KZON055tQc3ief.SQYOITs3j4R0Zvl.JLq",
+      "FirstName": "Rana",
+      "LastName": "Hamed",
+      "confirmPassword": "ran@N223",
+      "id": 4
+    },
+    {
+      "email": "reem11@gmail.com",
+      "password": "$2a$10$jPu6KAJPyqxLYsB0IzLMrO8PTj.f92qWD27einTyDDI4rhus3YiQe",
+      "FirstName": "Reem",
+      "LastName": "Hamed",
+      "confirmPassword": "re11@H14",
+      "id": 5
+    },
+    {
+      "email": "ahma@gmail.com",
+      "password": "$2a$10$cUQPuBr/fOpW9WvsvEe4He79F5kc0J.JjF32RtW67GFvT6UN./pjG",
+      "FirstName": "Ahmed",
+      "LastName": "Amin",
+      "confirmPassword": "ah13/4A@",
+      "id": 6
+    },
+    {
+      "email": "zein@gmail.com",
+      "password": "$2a$10$xsWyF8uC3jR5WYA7nekOW.UkdIUArAIyyPGYd52cjeI17v14jkm62",
+      "FirstName": "zein",
+      "LastName": "Mohamed",
+      "confirmPassword": "Ze@22/ab",
+      "id": 7
+    },
+    {
+      "email": "ahmamin11@gmail.com",
+      "password": "$2a$10$lPuuzTYkFobzsAAitft/FuBD4lGJV2wL5JD6kWWo52mP7pqcy2VSG",
+      "FirstName": "Ahmed",
+      "LastName": "Amin",
+      "confirmPassword": "A22/3@aa",
+      "id": 8
+    }
+  ]
+}
